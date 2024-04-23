@@ -87,7 +87,7 @@ function App() {
     <div className="App">
       <div
         style={{
-          fontFamily: "Cartograph CF",
+          fontFamily: "Open Sans",
           display: "flex",
           justifyContent: "center",
           margin: "10px",
